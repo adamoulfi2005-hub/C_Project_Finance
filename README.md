@@ -6,7 +6,7 @@
 
 # Structure
 - Projet 1 : projet1_rendements (Calcul de rendements, moyenne, écart-type à partir d'une série de prix).
-- Projet 2 : projet2_generateur *EN COURS* (Générateur aléatoire uniforme et gaussien (Box-Muller)).
+- Projet 2 : projet2_generateur (Générateur aléatoire uniforme et gaussien (Box-Muller)).
 - Projet 3 : projet3_simulateur *EN COURS* (Simulation Monte Carlo par mouvement brownien géométrique).
 - Project 4 : projet4_var *EN COURS* (Value-at-Risk et Conditional VaR sur la distribution simulée).
 
